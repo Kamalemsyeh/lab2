@@ -1,0 +1,131 @@
+    1  q
+    2  a
+    3  aa
+    4  a
+    5  aa
+    6  sudo apt-get install vim
+    7  sudo apt install libssl-dev bison flex
+    8  sudo apt install qt5-default pkg-config
+    9  ls
+   10  *
+   11  ls
+   12  time
+   13  ls
+   14  time
+   15  date
+   16  ls
+   17  date
+   18  ls
+   19  *
+   20  ls
+   21  cd Desktop/
+   22  ls
+   23  *
+   24  ls
+   25  cd Desktop/
+   26  ls
+   27  mkdir lab
+   28  ls
+   29  cd lab
+   30  mkdir lab2
+   31  cd lab2
+   32  sudo apt install gi
+   33  sudo apt install git gitk git-email
+   34  sudo apt update
+   35  sudo apt install git gitk git-email
+   36  git remote remove origin
+   37  sudo apt install git 
+   38  git remote rm testing
+   39  sudo apt install git 
+   40  git remote -v
+   41  git remote remove origin
+   42  rm -rf .git
+   43  git remote remove origin
+   44  sudo apt install git gitk git-email
+   45  sudo apt install git 
+   46  ps aux | grep -i apt
+   47  sudo reboot
+   48  sudo apt install git gitk git-email
+   49  git config --global uqer.name "Kamal"
+   50  git config --global user.name "Kamal"
+   51  git config --global user.email "Kamal.lemsyeh@etu.sorbonne-universite.com"
+   52  git config --global user.email [kamal.lemsyeh@etu.sorbonne-universite.fr]
+   53  git config --global user.email "kamal.lemsyeh@etu.sorbonne-universite.fr"
+   54  git config --list
+   55  git config --global user.name "Kamal"
+   56  git config --global user.email "kamal.lemsyeh@etu.sorbonne-universite.fr"
+   57  git config --list
+   58  git config --global user.email
+   59  git config --global user.name 
+   60  git config --global --unset uqer.name
+   61  git config --list
+   62  ls
+   63  cd Desktop/
+   64  ls
+   65  cd lab/
+   66  ls
+   67  cd lab2/
+   68  vim
+   69  ls
+   70  cat lemsyeh 
+   71  git init lab2
+   72  ls
+   73  cd ..
+   74  ls
+   75  cd lab2/
+   76  ls
+   77  cd lab2/
+   78  ls
+   79  cd ..
+   80  rm -r lab2/
+   81  ls
+   82  git init
+   83  ls
+   84  cd ..
+   85  git init lab2/
+   86  ls
+   87  cd lab2
+   88  ls
+   89  cd ..
+   90  git status
+   91  cd lab2
+   92  git status
+   93  git add lemsyeh
+   94  git status
+   95  git commit -m "Julius Ceasar"
+   96  git status
+   97  ls
+   98  vim lemsyeh
+   99  ls
+  100  rm lemsyeh
+  101  ls
+  102  cd ..
+  103  ls
+  104  git status
+  105  cd lab2/
+  106  git status
+  107  git add lemsyeh.txt
+  108  git status
+  109  git rm lemsyeh
+  110  ls
+  111  git status
+  112  git commit -m "Julius Ceasar"
+  113  git status
+  114  git remote add origin https://github.com/Kamalemsyeh/lab2.git
+  115  git push -u origin master
+  116  cd $HOME
+  117  git clone https://github.com/Kamalemsyeh/lab2
+  118  ls
+  119  cd lab2
+  120  ls
+  121  history
+  122  history > cr_lab2.txt
+  123  ls
+  124  rm cr_lab2.txt 
+  125  ls
+  126  cd ..
+  127  ls
+  128  cd Desktop/lab/lab2/history > cr_lab2.txt
+  129  cd Desktop/lab/lab2/
+  130  ls
+  131  history > cr_lab2.txt
